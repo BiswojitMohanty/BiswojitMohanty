@@ -1,11 +1,9 @@
- <h1 align="center">Hi 👋, I'm Biswojit Mohanty</h1>
+<h1 align="center">Hi 👋, I'm Biswojit Mohanty</h1>
 <h3 align="center">A passionate Power BI developer from Bangalore, India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswojitmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="biswojitmohanty" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswojitmohanty" alt="biswojitmohanty" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/htlrbiswo" target="blank"><img src="https://img.shields.io/twitter/follow/htlrbiswo?logo=twitter&style=for-the-badge" alt="htlrbiswo" /></a> </p>
 
@@ -39,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswojitmohanty&show_icons=true&locale=en" alt="biswojitmohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswojitmohanty&" alt="biswojitmohanty" /></p>
-
